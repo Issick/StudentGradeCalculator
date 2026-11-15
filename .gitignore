@@ -66,3 +66,9 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# ignored folders
+.vs/
+Debug/
+Release/
+x64/
